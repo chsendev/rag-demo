@@ -14,7 +14,7 @@ from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 # 加载ollama模型
 llm = Ollama(model="qwen2:7b-instruct-q4_0")
 # 加载embedding模型
-rag_embeddings = HuggingFaceEmbedding(model_name="BAAI/bge-small-zh-v1.5", cache_folder="./model")
+rag_embeddings = HuggingFaceEmbedding(model_name="BAAI/bge-small-zh-v1.5", cache_folder="./cache")
 
 # 读取文档
 documents = SimpleDirectoryReader(input_files=["./tRPC项目介绍.txt"]).load_data()
@@ -44,7 +44,7 @@ nodes = pipeline.run(
 print(nodes)
 
 # 保存到chromadb
-chroma_client = chromadb.PersistentClient(path="./chroma_llama_index_db")
+chroma_client = chromadb.PersistentClient(path="chromadb/chroma_llama_index_db")
 # 创建集合，相当于数据库中的表
 chroma_collection = chroma_client.create_collection("my_collection")
 vector_store = ChromaVectorStore(chroma_collection=chroma_collection)

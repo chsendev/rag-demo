@@ -13,9 +13,9 @@ def demo1():
     resp = model.invoke(messages)
     """
     除了以上的方式外，还支持以下方式
-    model.invoke("Hello")
-    model.invoke([{"role": "user", "content": "Hello"}])
-    model.invoke([HumanMessage("Hello")])
+    cache.invoke("Hello")
+    cache.invoke([{"role": "user", "content": "Hello"}])
+    cache.invoke([HumanMessage("Hello")])
     """
     print(resp)
 

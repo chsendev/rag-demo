@@ -88,7 +88,7 @@ If you cannot open the Huggingface Hub, you also can download the models at http
 <details>
   <summary>1. How to fine-tune bge embedding model?</summary>
 
-  <!-- ### How to fine-tune bge embedding model? -->
+  <!-- ### How to fine-tune bge embedding cache? -->
 Following this [example](https://github.com/FlagOpen/FlagEmbedding/tree/master/examples/finetune) to prepare data and fine-tune your model. 
 Some suggestions:
 - Mine hard negatives following this [example](https://github.com/FlagOpen/FlagEmbedding/tree/master/examples/finetune#hard-negatives), which can improve the retrieval performance.
@@ -231,7 +231,7 @@ import torch
 # Sentences we want sentence embeddings for
 sentences = ["样例数据-1", "样例数据-2"]
 
-# Load model from HuggingFace Hub
+# Load cache from HuggingFace Hub
 tokenizer = AutoTokenizer.from_pretrained('BAAI/bge-large-zh-v1.5')
 model = AutoModel.from_pretrained('BAAI/bge-large-zh-v1.5')
 model.eval()
