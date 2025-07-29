@@ -1,0 +1,2610 @@
+{
+  "zsmlcxModel": {
+    "zydm": "085406",
+    "zymc": "控制工程",
+    "schId": null,
+    "dwdm": null,
+    "dwmc": null,
+    "ssdm": null,
+    "ssmc": null,
+    "szqy": null,
+    "mldm": null,
+    "mlmc": null,
+    "yjxkdm": null,
+    "yjxkmc": null,
+    "xwlx": null,
+    "xwlxmc": null,
+    "xxfs": "2",
+    "xxfsmc": null,
+    "tydxs": null,
+    "jsggjh": null,
+    "dwlxs": [
+      "syl"
+    ],
+    "id": null,
+    "ids": null,
+    "sign": null,
+    "sign2": null,
+    "sign3": null,
+    "pageCount": null,
+    "start": "10",
+    "pages": null,
+    "f": null
+  },
+  "msg": {
+    "curPage": 2,
+    "nextPageAvailable": false,
+    "pageCount": 10,
+    "previousPageAvailable": true,
+    "size": 10,
+    "startOfLastPage": 10,
+    "startOfNextPage": 20,
+    "startOfPreviousPage": 0,
+    "totalCount": 12,
+    "totalPage": 2,
+    "list": [
+      {
+        "schId": "367882",
+        "dwdm": "10005",
+        "dwmc": "北京工业大学",
+        "szssm": "11",
+        "szss": "北京",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085406",
+        "zymc": "控制工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "139dfa6f87799b9be04681ae4553c3be",
+        "sign2": "227cbf32fac0a9d02afb3a98fafd5cba",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "5970c027fe9c9a810605f26e7ed4f2f1",
+            "zyyjfxdm": "1000521087085406012",
+            "dwdm": "10005",
+            "dwmc": "北京工业大学",
+            "schId": "367882",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "087",
+            "yxsmc": "信息科学技术学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "智能系统与自主控制",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：5(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "139dfa6f87799b9be04681ae4553c3be",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "821",
+                  "kskmmc": "自动控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "96982720b8726023047512b01e428696",
+            "zyyjfxdm": "1000521087085406022",
+            "dwdm": "10005",
+            "dwmc": "北京工业大学",
+            "schId": "367882",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "087",
+            "yxsmc": "信息科学技术学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "智能服务机器人",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：5(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "139dfa6f87799b9be04681ae4553c3be",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "821",
+                  "kskmmc": "自动控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "129c279ddb2cbe4a61bac358444032f1",
+            "zyyjfxdm": "1000521087085406032",
+            "dwdm": "10005",
+            "dwmc": "北京工业大学",
+            "schId": "367882",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "087",
+            "yxsmc": "信息科学技术学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "03",
+            "yjfxmc": "机器感知与模式识别",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：5(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "139dfa6f87799b9be04681ae4553c3be",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "821",
+                  "kskmmc": "自动控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f64d96a63b10128913600665a2ba4672",
+            "zyyjfxdm": "1000521087085406042",
+            "dwdm": "10005",
+            "dwmc": "北京工业大学",
+            "schId": "367882",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "087",
+            "yxsmc": "信息科学技术学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "04",
+            "yjfxmc": "智能检测与人机交互",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：5(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "139dfa6f87799b9be04681ae4553c3be",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "821",
+                  "kskmmc": "自动控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "367976",
+        "dwdm": "10079",
+        "dwmc": "华北电力大学(保定)",
+        "szssm": "13",
+        "szss": "河北",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085406",
+        "zymc": "控制工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+        "sign2": "ffef36910d118b4d677e265ebbdb1072",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "e4f15a1edfc0a453a409df546b03d787",
+            "zyyjfxdm": "1007921009085406012",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "009",
+            "yxsmc": "自动化系",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "控制理论及其在工程中的应用",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "820",
+                  "kskmmc": "自动控制理论二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3f0d34c8445d4b0a9bd6f83dc2e086bb",
+            "zyyjfxdm": "1007921009085406022",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "009",
+            "yxsmc": "自动化系",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "发电企业信息化与智能化技术",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "820",
+                  "kskmmc": "自动控制理论二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "913ad2a0d5ae9ff7dbdd48013c24cb60",
+            "zyyjfxdm": "1007921009085406032",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "009",
+            "yxsmc": "自动化系",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "03",
+            "yjfxmc": "发电系统建模、仿真与优化控制",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "820",
+                  "kskmmc": "自动控制理论二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d88be7975275497db3c33425582a4710",
+            "zyyjfxdm": "1007921009085406042",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "009",
+            "yxsmc": "自动化系",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "04",
+            "yjfxmc": "现代测控技术与系统",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "820",
+                  "kskmmc": "自动控制理论二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d863cdc4de871233c080c37a53f63b13",
+            "zyyjfxdm": "1007921009085406052",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "009",
+            "yxsmc": "自动化系",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "05",
+            "yjfxmc": "工程管理、决策支持理论与方法",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "820",
+                  "kskmmc": "自动控制理论二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "9b091f175e0205856c60b5d62078c15f",
+            "zyyjfxdm": "1007921009085406062",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "009",
+            "yxsmc": "自动化系",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "06",
+            "yjfxmc": "模式识别与智能系统",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "820",
+                  "kskmmc": "自动控制理论二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d35b5af20ddb49accf5f36d61ec9a15c",
+            "zyyjfxdm": "1007923009085406012",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "009",
+            "yxsmc": "自动化系",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "控制理论及其在工程中的应用",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km2Vo": {
+                  "kskmdm": "288",
+                  "kskmmc": "单考英语",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km3Vo": {
+                  "kskmdm": "666",
+                  "kskmmc": "单考数学",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km4Vo": {
+                  "kskmdm": "820",
+                  "kskmmc": "自动控制理论二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1300224c50abfda48b55a8ea3e0f3465",
+            "zyyjfxdm": "1007923009085406022",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "009",
+            "yxsmc": "自动化系",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "发电企业信息化与智能化技术",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km2Vo": {
+                  "kskmdm": "288",
+                  "kskmmc": "单考英语",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km3Vo": {
+                  "kskmdm": "666",
+                  "kskmmc": "单考数学",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km4Vo": {
+                  "kskmdm": "820",
+                  "kskmmc": "自动控制理论二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fe6da4d9e37eda5493afa7e6b4850ea7",
+            "zyyjfxdm": "1007923009085406032",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "009",
+            "yxsmc": "自动化系",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "03",
+            "yjfxmc": "发电系统建模、仿真与优化控制",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km2Vo": {
+                  "kskmdm": "288",
+                  "kskmmc": "单考英语",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km3Vo": {
+                  "kskmdm": "666",
+                  "kskmmc": "单考数学",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km4Vo": {
+                  "kskmdm": "820",
+                  "kskmmc": "自动控制理论二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a78f339571248af91df360d48cd4584f",
+            "zyyjfxdm": "1007923009085406042",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "009",
+            "yxsmc": "自动化系",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "04",
+            "yjfxmc": "现代测控技术与系统",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km2Vo": {
+                  "kskmdm": "288",
+                  "kskmmc": "单考英语",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km3Vo": {
+                  "kskmdm": "666",
+                  "kskmmc": "单考数学",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km4Vo": {
+                  "kskmdm": "820",
+                  "kskmmc": "自动控制理论二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "367997",
+        "dwdm": "10108",
+        "dwmc": "山西大学",
+        "szssm": "14",
+        "szss": "山西",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085406",
+        "zymc": "控制工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "b371f18dcceeb2ab1eb6bf1e470815c9",
+        "sign2": "7bc1a1edb83e72e229c6592ff1cab8e5",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "8af15715c68e5e45d02286358be2dc05",
+            "zyyjfxdm": "1010821024085406002",
+            "dwdm": "10108",
+            "dwmc": "山西大学",
+            "schId": "367997",
+            "szssm": "14",
+            "szss": "山西",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "0",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "024",
+            "yxsmc": "自动化与软件学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "不招收同等学力考生。",
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": null,
+            "nzsrs": 10,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "b371f18dcceeb2ab1eb6bf1e470815c9",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "865",
+                  "kskmmc": "自动控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368181",
+        "dwdm": "10287",
+        "dwmc": "南京航空航天大学",
+        "szssm": "32",
+        "szss": "江苏",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085406",
+        "zymc": "控制工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "3f68d5a9756a68a7eee6fb99aae86d1a",
+        "sign2": "7466ebecb03264e51357a5f4d7fc9f19",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "5615f6f9b91495dc82fe9dfb6bdbe67a",
+            "zyyjfxdm": "1028721003085406FF2",
+            "dwdm": "10287",
+            "dwmc": "南京航空航天大学",
+            "schId": "368181",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "003",
+            "yxsmc": "自动化学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "FF",
+            "yjfxmc": "非全（研究方向不区分）",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "3f68d5a9756a68a7eee6fb99aae86d1a",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "201",
+                  "kskmmc": "英语（一）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "820",
+                  "kskmmc": "自动控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fc2e15aca44dc8df127e2d36feace452",
+            "zyyjfxdm": "1028723003085406FF2",
+            "dwdm": "10287",
+            "dwmc": "南京航空航天大学",
+            "schId": "368181",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "003",
+            "yxsmc": "自动化学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "FF",
+            "yjfxmc": "非全（研究方向不区分）",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "3f68d5a9756a68a7eee6fb99aae86d1a",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "241",
+                  "kskmmc": "英语（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "614",
+                  "kskmmc": "高等数学（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "820",
+                  "kskmmc": "自动控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368182",
+        "dwdm": "10288",
+        "dwmc": "南京理工大学",
+        "szssm": "32",
+        "szss": "江苏",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085406",
+        "zymc": "控制工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "df2e4b56e7b5b508b00b2f1e8cd20090",
+        "sign2": "b06eaeeef58482e270df10d0c78e2ac9",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "ee25f54e5f129d8b0257a5933bcd5b49",
+            "zyyjfxdm": "1028821110085406F12",
+            "dwdm": "10288",
+            "dwmc": "南京理工大学",
+            "schId": "368182",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "110",
+            "yxsmc": "自动化学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "各学院各专业用于公开招考的人数将根据国家最终下达的招生计划数、实际录取的推免生数、考生报考情况等进行适当调整。",
+            "yjfxdm": "F1",
+            "yjfxmc": "不区分研究方向(非全)",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：15(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "df2e4b56e7b5b508b00b2f1e8cd20090",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "873",
+                  "kskmmc": "自动控制理论",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5ac8c4e4673ab0e88f724a15248aab06",
+            "zyyjfxdm": "1028823110085406F12",
+            "dwdm": "10288",
+            "dwmc": "南京理工大学",
+            "schId": "368182",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "110",
+            "yxsmc": "自动化学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "各学院各专业用于公开招考的人数将根据国家最终下达的招生计划数、实际录取的推免生数、考生报考情况等进行适当调整。",
+            "yjfxdm": "F1",
+            "yjfxmc": "不区分研究方向(非全)",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "df2e4b56e7b5b508b00b2f1e8cd20090",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "241",
+                  "kskmmc": "英语（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "611",
+                  "kskmmc": "数学（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "899",
+                  "kskmmc": "自动控制理论（单考）",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368189",
+        "dwdm": "10295",
+        "dwmc": "江南大学",
+        "szssm": "32",
+        "szss": "江苏",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085406",
+        "zymc": "控制工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "96f712a8df3ed3b60e63db7580f15e0a",
+        "sign2": "8c5db9cdd1f0d388cc3ccd72ec69e301",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "cdb90e4714f0ff8b480f8aa43505a732",
+            "zyyjfxdm": "1029521019085406012",
+            "dwdm": "10295",
+            "dwmc": "江南大学",
+            "schId": "368189",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "019",
+            "yxsmc": "物联网工程学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "先进控制技术与应用",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：3(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "96f712a8df3ed3b60e63db7580f15e0a",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "807",
+                  "kskmmc": "自动控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "14306c727840f695bfc6e562cfc78fd2",
+            "zyyjfxdm": "1029521019085406022",
+            "dwdm": "10295",
+            "dwmc": "江南大学",
+            "schId": "368189",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "019",
+            "yxsmc": "物联网工程学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "智能检测技术与装置",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：3(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "96f712a8df3ed3b60e63db7580f15e0a",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "807",
+                  "kskmmc": "自动控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "13a3d3af4ee4437c3b3d26499f2cf5b5",
+            "zyyjfxdm": "1029521019085406032",
+            "dwdm": "10295",
+            "dwmc": "江南大学",
+            "schId": "368189",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "019",
+            "yxsmc": "物联网工程学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "03",
+            "yjfxmc": "图像分析与模式识别",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：3(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "96f712a8df3ed3b60e63db7580f15e0a",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "807",
+                  "kskmmc": "自动控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "be3734954459234bd7fdbee983cdbbc4",
+            "zyyjfxdm": "1029521019085406042",
+            "dwdm": "10295",
+            "dwmc": "江南大学",
+            "schId": "368189",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "019",
+            "yxsmc": "物联网工程学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "04",
+            "yjfxmc": "工业机器人",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：3(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "96f712a8df3ed3b60e63db7580f15e0a",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "807",
+                  "kskmmc": "自动控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3972612ac81ac0b1c7d4f6d9a0258c44",
+            "zyyjfxdm": "1029521019085406052",
+            "dwdm": "10295",
+            "dwmc": "江南大学",
+            "schId": "368189",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "019",
+            "yxsmc": "物联网工程学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "05",
+            "yjfxmc": "控制工程与应用",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：3(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "96f712a8df3ed3b60e63db7580f15e0a",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "807",
+                  "kskmmc": "自动控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368201",
+        "dwdm": "10298",
+        "dwmc": "南京林业大学",
+        "szssm": "32",
+        "szss": "江苏",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085406",
+        "zymc": "控制工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "6544786ce787d4f728f5be55983fc99f",
+        "sign2": "9333b4fc35fb1ebf89dc2c56bbec5189",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "f1e64fb5835deb4165cd15238fc9c7d7",
+            "zyyjfxdm": "1029821003085406002",
+            "dwdm": "10298",
+            "dwmc": "南京林业大学",
+            "schId": "368201",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "0",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "003",
+            "yxsmc": "机械电子工程学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": "不区分导师",
+            "nzsrs": 25,
+            "nzsrsstr": "专业：25(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "6544786ce787d4f728f5be55983fc99f",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "834",
+                  "kskmmc": "自动控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368213",
+        "dwdm": "10335",
+        "dwmc": "浙江大学",
+        "szssm": "33",
+        "szss": "浙江",
+        "szqy": null,
+        "zhx": "1",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085406",
+        "zymc": "控制工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "ef1c276357b87f13b96eb2533502a8af",
+        "sign2": "a6cb0dc502c3666b51010f7e59b0f833",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "3c7311c51a352d54317d892597272929",
+            "zyyjfxdm": "1033523600085406212",
+            "dwdm": "10335",
+            "dwmc": "浙江大学",
+            "schId": "368213",
+            "szssm": "33",
+            "szss": "浙江",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "600",
+            "yxsmc": "工程师学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "专业备注栏信息请查询我校研招网http://www.grs.zju.edu.cn/yjszs/main.htm中招生简章和招生目录信息",
+            "yjfxdm": "21",
+            "yjfxmc": "控制工程（非全专硕单考）",
+            "zdjs": null,
+            "nzsrs": 30,
+            "nzsrsstr": "专业：30(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "ef1c276357b87f13b96eb2533502a8af",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "243",
+                  "kskmmc": "单考英语",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "751",
+                  "kskmmc": "单考数学",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "895",
+                  "kskmmc": "自动控制原理（单考）",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368476",
+        "dwdm": "10615",
+        "dwmc": "西南石油大学",
+        "szssm": "51",
+        "szss": "四川",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085406",
+        "zymc": "控制工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "193fb59d5e28216c7c04c00680a258a3",
+        "sign2": "c38f5fedc571de3e3e5b26547a470dff",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "9f1ee690562b3f9cc3bcda02b41fcf39",
+            "zyyjfxdm": "1061521007085406012",
+            "dwdm": "10615",
+            "dwmc": "西南石油大学",
+            "schId": "368476",
+            "szssm": "51",
+            "szss": "四川",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "0",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "007",
+            "yxsmc": "电气信息学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "智能检测与控制",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：15(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "193fb59d5e28216c7c04c00680a258a3",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "817",
+                  "kskmmc": "数字电子技术",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ec2ebe0e3d9086436003d1c18a8abdc1",
+            "zyyjfxdm": "1061521007085406022",
+            "dwdm": "10615",
+            "dwmc": "西南石油大学",
+            "schId": "368476",
+            "szssm": "51",
+            "szss": "四川",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "0",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "007",
+            "yxsmc": "电气信息学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "检测技术与自动化装置",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：15(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "193fb59d5e28216c7c04c00680a258a3",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "817",
+                  "kskmmc": "数字电子技术",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d41995c624f43ec4bf8ab584d903ac39",
+            "zyyjfxdm": "1061521007085406032",
+            "dwdm": "10615",
+            "dwmc": "西南石油大学",
+            "schId": "368476",
+            "szssm": "51",
+            "szss": "四川",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "0",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "007",
+            "yxsmc": "电气信息学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "03",
+            "yjfxmc": "系统建模与仿真技术",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：15(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "193fb59d5e28216c7c04c00680a258a3",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "817",
+                  "kskmmc": "数字电子技术",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "28a19692e0b936c370ae0f031519dc5e",
+            "zyyjfxdm": "1061521007085406042",
+            "dwdm": "10615",
+            "dwmc": "西南石油大学",
+            "schId": "368476",
+            "szssm": "51",
+            "szss": "四川",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "0",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "007",
+            "yxsmc": "电气信息学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "04",
+            "yjfxmc": "信息获取、处理与控制",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：15(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "193fb59d5e28216c7c04c00680a258a3",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "817",
+                  "kskmmc": "数字电子技术",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368554",
+        "dwdm": "10698",
+        "dwmc": "西安交通大学",
+        "szssm": "61",
+        "szss": "陕西",
+        "szqy": null,
+        "zhx": "1",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085406",
+        "zymc": "控制工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "4e8c07de525c9f37c48d579e3ce65b5c",
+        "sign2": "a5bba47e26b07d4b2234342952f9723b",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "3b00270291205aabb0966a62753ba86d",
+            "zyyjfxdm": "1069823054085406052",
+            "dwdm": "10698",
+            "dwmc": "西安交通大学",
+            "schId": "368554",
+            "szssm": "61",
+            "szss": "陕西",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "054",
+            "yxsmc": "电子与信息学部-自动化科学与工程学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "目录公布的各专业招生人数为基本计划，学校在复试阶段根据教育部下达计划、各学院（部、中心）推荐免试接收（为本年度实际接收情况）、报考生源及激励计划和各类专项计划等情况调整各院招生人数。",
+            "yjfxdm": "05",
+            "yjfxmc": "智能机器人（单考）",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "4e8c07de525c9f37c48d579e3ce65b5c",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "251",
+                  "kskmmc": "英语（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "701",
+                  "kskmmc": "数学（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "871",
+                  "kskmmc": "自动控制理论基础（含现代控制）",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368555",
+        "dwdm": "10699",
+        "dwmc": "西北工业大学",
+        "szssm": "61",
+        "szss": "陕西",
+        "szqy": null,
+        "zhx": "1",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085406",
+        "zymc": "控制工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "1a691ee42793c8648cdf835c10e04f0e",
+        "sign2": "a0522dcbdb0257aa1c7985f97989657c",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "713c9f531ac632278bb3e4a6d70f9634",
+            "zyyjfxdm": "1069921002085406002",
+            "dwdm": "10699",
+            "dwmc": "西北工业大学",
+            "schId": "368555",
+            "szssm": "61",
+            "szss": "陕西",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "002",
+            "yxsmc": "航天学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "复试科目见我校研招网公布的招生目录",
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": "无",
+            "nzsrs": 4,
+            "nzsrsstr": "专业：4(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "1a691ee42793c8648cdf835c10e04f0e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "896",
+                  "kskmmc": "飞行器控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a5571001dd4cc0dd1f4aa39405791516",
+            "zyyjfxdm": "1069921020085406002",
+            "dwdm": "10699",
+            "dwmc": "西北工业大学",
+            "schId": "368555",
+            "szssm": "61",
+            "szss": "陕西",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "020",
+            "yxsmc": "民航学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "复试科目见我校研招网公布的招生目录",
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": "无",
+            "nzsrs": 3,
+            "nzsrsstr": "专业：3(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "1a691ee42793c8648cdf835c10e04f0e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "896",
+                  "kskmmc": "飞行器控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368557",
+        "dwdm": "10701",
+        "dwmc": "西安电子科技大学",
+        "szssm": "61",
+        "szss": "陕西",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085406",
+        "zymc": "控制工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "bd45f6bffb66aab029d335df61cdec38",
+        "sign2": "2942e21493441cbd00ccab2aaf9ab340",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "4018de8edff21989076ad86e0606235f",
+            "zyyjfxdm": "1070121004085406022",
+            "dwdm": "10701",
+            "dwmc": "西安电子科技大学",
+            "schId": "368557",
+            "szssm": "61",
+            "szss": "陕西",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "004",
+            "yxsmc": "机电工程学院",
+            "zydm": "085406",
+            "zymc": "控制工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "电子信息",
+            "zdjs": "导师组",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "bd45f6bffb66aab029d335df61cdec38",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "201",
+                  "kskmmc": "英语（一）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "301",
+                  "kskmmc": "数学（一）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "843",
+                  "kskmmc": "自动控制原理",
+                  "cksm": "《自动控制原理》（第三版）千博等，西电科大出版社"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "a": null
+  },
+  "flag": true,
+  "invokeStatus": "SUCCESS",
+  "taskId": "3xt693k4yd24zun9"
+}

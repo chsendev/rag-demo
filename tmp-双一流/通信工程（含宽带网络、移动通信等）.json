@@ -1,0 +1,2422 @@
+{
+  "zsmlcxModel": {
+    "zydm": "085402",
+    "zymc": "通信工程（含宽带网络、移动通信等）",
+    "schId": null,
+    "dwdm": null,
+    "dwmc": null,
+    "ssdm": null,
+    "ssmc": null,
+    "szqy": null,
+    "mldm": null,
+    "mlmc": null,
+    "yjxkdm": null,
+    "yjxkmc": null,
+    "xwlx": null,
+    "xwlxmc": null,
+    "xxfs": "2",
+    "xxfsmc": null,
+    "tydxs": null,
+    "jsggjh": null,
+    "dwlxs": [
+      "syl"
+    ],
+    "id": null,
+    "ids": null,
+    "sign": null,
+    "sign2": null,
+    "sign3": null,
+    "pageCount": null,
+    "start": "0",
+    "pages": null,
+    "f": null
+  },
+  "msg": {
+    "curPage": 1,
+    "nextPageAvailable": false,
+    "pageCount": 10,
+    "previousPageAvailable": false,
+    "size": 10,
+    "startOfLastPage": 0,
+    "startOfNextPage": 10,
+    "startOfPreviousPage": 0,
+    "totalCount": 10,
+    "totalPage": 1,
+    "list": [
+      {
+        "schId": "367881",
+        "dwdm": "10004",
+        "dwmc": "北京交通大学",
+        "szssm": "11",
+        "szss": "北京",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085402",
+        "zymc": "通信工程（含宽带网络、移动通信等）",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "04a33c12a1ff579af7399b02b0ffcbad",
+        "sign2": "cbb3dc6fbe9067bc6da5d280f27d9413",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "13b841b0620b1586b50d3e4c1f963655",
+            "zyyjfxdm": "1000421900085402002",
+            "dwdm": "10004",
+            "dwmc": "北京交通大学",
+            "schId": "367881",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "900",
+            "yxsmc": "在职专业学位中心",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": null,
+            "nzsrs": 20,
+            "nzsrsstr": "专业：20(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "04a33c12a1ff579af7399b02b0ffcbad",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "891",
+                  "kskmmc": "通信原理",
+                  "cksm": "详见北京交通大学研究生院招生专题网（http://gs.bjtu.edu.cn/cms/zszt/)公布的北京交通大学2025年硕士研究生招生专业目录及自命题科目考试范围"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "367935",
+        "dwdm": "10054",
+        "dwmc": "华北电力大学",
+        "szssm": "11",
+        "szss": "北京",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085402",
+        "zymc": "通信工程（含宽带网络、移动通信等）",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "4fcfac2788f79e81fe9faf281c73d95e",
+        "sign2": "75c542e84fc4aac283098179ccc2790f",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "d21c36f4536da8f836c56f02d3517d82",
+            "zyyjfxdm": "1005421001085402012",
+            "dwdm": "10054",
+            "dwmc": "华北电力大学",
+            "schId": "367935",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "001",
+            "yxsmc": "电气与电子工程学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "电力系统通信及信息处理",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：18(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "4fcfac2788f79e81fe9faf281c73d95e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "813",
+                  "kskmmc": "信号与系统",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f956841a179b7cb026676491e6b8b7dd",
+            "zyyjfxdm": "1005421001085402022",
+            "dwdm": "10054",
+            "dwmc": "华北电力大学",
+            "schId": "367935",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "001",
+            "yxsmc": "电气与电子工程学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "现代通信技术及应用",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：18(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "4fcfac2788f79e81fe9faf281c73d95e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "813",
+                  "kskmmc": "信号与系统",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6b75c6ebd6e3698801b38ed82a8eaade",
+            "zyyjfxdm": "1005421001085402032",
+            "dwdm": "10054",
+            "dwmc": "华北电力大学",
+            "schId": "367935",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "001",
+            "yxsmc": "电气与电子工程学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "03",
+            "yjfxmc": "能源互联网信息通信技术",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：18(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "4fcfac2788f79e81fe9faf281c73d95e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "813",
+                  "kskmmc": "信号与系统",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "b140f81e4071263fb8ddcfeb6b13f2e8",
+            "zyyjfxdm": "1005421001085402042",
+            "dwdm": "10054",
+            "dwmc": "华北电力大学",
+            "schId": "367935",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "001",
+            "yxsmc": "电气与电子工程学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "04",
+            "yjfxmc": "智能信息处理及信息安全",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：18(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "4fcfac2788f79e81fe9faf281c73d95e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "813",
+                  "kskmmc": "信号与系统",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "0445613cd25577b7f8fc9db3252c4dc3",
+            "zyyjfxdm": "1005421001085402052",
+            "dwdm": "10054",
+            "dwmc": "华北电力大学",
+            "schId": "367935",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "001",
+            "yxsmc": "电气与电子工程学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "05",
+            "yjfxmc": "现代电子科学技术及应用",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：18(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "4fcfac2788f79e81fe9faf281c73d95e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "813",
+                  "kskmmc": "信号与系统",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a3e41dad1ae19a29ff6c9a781b82517e",
+            "zyyjfxdm": "1005421001085402062",
+            "dwdm": "10054",
+            "dwmc": "华北电力大学",
+            "schId": "367935",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "001",
+            "yxsmc": "电气与电子工程学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "06",
+            "yjfxmc": "光通信与光传感技术",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：18(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "4fcfac2788f79e81fe9faf281c73d95e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "813",
+                  "kskmmc": "信号与系统",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "de410630369386c5660b777db614e68e",
+            "zyyjfxdm": "1005421001085402072",
+            "dwdm": "10054",
+            "dwmc": "华北电力大学",
+            "schId": "367935",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "001",
+            "yxsmc": "电气与电子工程学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "07",
+            "yjfxmc": "物联网与现代传感技术",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：18(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "4fcfac2788f79e81fe9faf281c73d95e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "813",
+                  "kskmmc": "信号与系统",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cbab9e4194817773e9d1f829067a2b48",
+            "zyyjfxdm": "1005423001085402012",
+            "dwdm": "10054",
+            "dwmc": "华北电力大学",
+            "schId": "367935",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "001",
+            "yxsmc": "电气与电子工程学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "电力系统通信及信息处理",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：2(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "4fcfac2788f79e81fe9faf281c73d95e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "241",
+                  "kskmmc": "英语（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "611",
+                  "kskmmc": "数学（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "815",
+                  "kskmmc": "信号与系统（单独考试）",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "b0c13c9866eafde999776db5839ca9ba",
+            "zyyjfxdm": "1005423001085402022",
+            "dwdm": "10054",
+            "dwmc": "华北电力大学",
+            "schId": "367935",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "001",
+            "yxsmc": "电气与电子工程学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "现代通信技术及应用",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：2(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "4fcfac2788f79e81fe9faf281c73d95e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "241",
+                  "kskmmc": "英语（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "611",
+                  "kskmmc": "数学（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "815",
+                  "kskmmc": "信号与系统（单独考试）",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bc280da2216173180a6189b8828ff401",
+            "zyyjfxdm": "1005423001085402032",
+            "dwdm": "10054",
+            "dwmc": "华北电力大学",
+            "schId": "367935",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "001",
+            "yxsmc": "电气与电子工程学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "03",
+            "yjfxmc": "能源互联网信息通信技术",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：2(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "4fcfac2788f79e81fe9faf281c73d95e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "241",
+                  "kskmmc": "英语（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "611",
+                  "kskmmc": "数学（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "815",
+                  "kskmmc": "信号与系统（单独考试）",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "367948",
+        "dwdm": "10058",
+        "dwmc": "天津工业大学",
+        "szssm": "12",
+        "szss": "天津",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085402",
+        "zymc": "通信工程（含宽带网络、移动通信等）",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "69e334afe8990001f2b42ec35498b56c",
+        "sign2": "e791143a0ae476a5c6b403d63c90c9d0",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "af652f5b0f80e4bb2ad00947536f9a72",
+            "zyyjfxdm": "1005821008085402012",
+            "dwdm": "10058",
+            "dwmc": "天津工业大学",
+            "schId": "367948",
+            "szssm": "12",
+            "szss": "天津",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "0",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "008",
+            "yxsmc": "电子与信息工程学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "通信系统工程",
+            "zdjs": null,
+            "nzsrs": 2,
+            "nzsrsstr": "研究方向：2(不含推免)",
+            "xxfs": "2",
+            "gbfs": "3",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "69e334afe8990001f2b42ec35498b56c",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "201",
+                  "kskmmc": "英语（一）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "301",
+                  "kskmmc": "数学（一）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "814",
+                  "kskmmc": "通信原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "e2e8992dbeb5a33ea9f7a7f0537ae1a4",
+            "zyyjfxdm": "1005821008085402022",
+            "dwdm": "10058",
+            "dwmc": "天津工业大学",
+            "schId": "367948",
+            "szssm": "12",
+            "szss": "天津",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "0",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "008",
+            "yxsmc": "电子与信息工程学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "通信信号处理",
+            "zdjs": null,
+            "nzsrs": 3,
+            "nzsrsstr": "研究方向：3(不含推免)",
+            "xxfs": "2",
+            "gbfs": "3",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "69e334afe8990001f2b42ec35498b56c",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "201",
+                  "kskmmc": "英语（一）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "301",
+                  "kskmmc": "数学（一）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "812",
+                  "kskmmc": "信号与系统",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "367976",
+        "dwdm": "10079",
+        "dwmc": "华北电力大学(保定)",
+        "szssm": "13",
+        "szss": "河北",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085402",
+        "zymc": "通信工程（含宽带网络、移动通信等）",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+        "sign2": "7de3f48fb2058f5792aa0a9f91c46f9b",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "242586140bfadd81f527a633620b7909",
+            "zyyjfxdm": "1007921008085402012",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "008",
+            "yxsmc": "电子与通信工程系",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "电力系统通信及信息处理",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "818",
+                  "kskmmc": "电子技术基础二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "e498375173fe6a575c98a247e7c116cd",
+            "zyyjfxdm": "1007921008085402022",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "008",
+            "yxsmc": "电子与通信工程系",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "现代通信技术及应用",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "818",
+                  "kskmmc": "电子技术基础二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "21dbc97fab52e83ea61158c35cde73f6",
+            "zyyjfxdm": "1007921008085402032",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "008",
+            "yxsmc": "电子与通信工程系",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "03",
+            "yjfxmc": "能源互联网信息通信技术",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "818",
+                  "kskmmc": "电子技术基础二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5328e164a4cf8baeed0731c9ee76e973",
+            "zyyjfxdm": "1007921008085402042",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "008",
+            "yxsmc": "电子与通信工程系",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "04",
+            "yjfxmc": "智能信息处理与信息安全",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "818",
+                  "kskmmc": "电子技术基础二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5a97d3b669bf244c271ad88a4aa0a77a",
+            "zyyjfxdm": "1007921008085402052",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "008",
+            "yxsmc": "电子与通信工程系",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "05",
+            "yjfxmc": "现代电子科学技术及应用",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "818",
+                  "kskmmc": "电子技术基础二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "c1f98ed0687e9fe90ed5971e0434b063",
+            "zyyjfxdm": "1007921008085402062",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "008",
+            "yxsmc": "电子与通信工程系",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "06",
+            "yjfxmc": "光通信与光传感技术",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "818",
+                  "kskmmc": "电子技术基础二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "629fd68ae76c19151ab8b0bed6fd00cb",
+            "zyyjfxdm": "1007921008085402072",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "008",
+            "yxsmc": "电子与通信工程系",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "07",
+            "yjfxmc": "物联网与现代传感技术",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "818",
+                  "kskmmc": "电子技术基础二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "7a3a0d1ca3d8d79a73f1969cd124204c",
+            "zyyjfxdm": "1007923008085402012",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "008",
+            "yxsmc": "电子与通信工程系",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "电力系统通信及信息处理",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km2Vo": {
+                  "kskmdm": "288",
+                  "kskmmc": "单考英语",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km3Vo": {
+                  "kskmdm": "666",
+                  "kskmmc": "单考数学",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km4Vo": {
+                  "kskmdm": "818",
+                  "kskmmc": "电子技术基础二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d161a4eea812c8f5e85291d4aeb589da",
+            "zyyjfxdm": "1007923008085402022",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "008",
+            "yxsmc": "电子与通信工程系",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "现代通信技术及应用",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km2Vo": {
+                  "kskmdm": "288",
+                  "kskmmc": "单考英语",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km3Vo": {
+                  "kskmdm": "666",
+                  "kskmmc": "单考数学",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km4Vo": {
+                  "kskmdm": "818",
+                  "kskmmc": "电子技术基础二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "200bab8243c2f451054c23315589523a",
+            "zyyjfxdm": "1007923008085402032",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "008",
+            "yxsmc": "电子与通信工程系",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "03",
+            "yjfxmc": "能源互联网信息通信技术",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km2Vo": {
+                  "kskmdm": "288",
+                  "kskmmc": "单考英语",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km3Vo": {
+                  "kskmdm": "666",
+                  "kskmmc": "单考数学",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                },
+                "km4Vo": {
+                  "kskmdm": "818",
+                  "kskmmc": "电子技术基础二",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368137",
+        "dwdm": "10269",
+        "dwmc": "华东师范大学",
+        "szssm": "31",
+        "szss": "上海",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085402",
+        "zymc": "通信工程（含宽带网络、移动通信等）",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "af272cbfdfbfdd5c06ebbb18a111e68d",
+        "sign2": "8ef64770f73f4030bf7cf93229789ae3",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "716459d56ef579f875190e9b2b982950",
+            "zyyjfxdm": "1026921137085402002",
+            "dwdm": "10269",
+            "dwmc": "华东师范大学",
+            "schId": "368137",
+            "szssm": "31",
+            "szss": "上海",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "137",
+            "yxsmc": "通信与电子工程学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": "不区分导师",
+            "nzsrs": 20,
+            "nzsrsstr": "专业：20(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "af272cbfdfbfdd5c06ebbb18a111e68d",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "801",
+                  "kskmmc": "数字电路",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368358",
+        "dwdm": "10487",
+        "dwmc": "华中科技大学",
+        "szssm": "42",
+        "szss": "湖北",
+        "szqy": null,
+        "zhx": "1",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085402",
+        "zymc": "通信工程（含宽带网络、移动通信等）",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "4d39fcd78635ff4fc810f17dc3b58ace",
+        "sign2": "3bc264f2b7e31c1fed373d0c3e583124",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "ee8bcdf30f2cbefeb534e190ad35e64d",
+            "zyyjfxdm": "1048721920085402012",
+            "dwdm": "10487",
+            "dwmc": "华中科技大学",
+            "schId": "368358",
+            "szssm": "42",
+            "szss": "湖北",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "920",
+            "yxsmc": "网络空间安全学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "电子与通信工程",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：2(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "4d39fcd78635ff4fc810f17dc3b58ace",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "201",
+                  "kskmmc": "英语（一）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "301",
+                  "kskmmc": "数学（一）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "824",
+                  "kskmmc": "信号与线性系统",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368480",
+        "dwdm": "10614",
+        "dwmc": "电子科技大学",
+        "szssm": "51",
+        "szss": "四川",
+        "szqy": null,
+        "zhx": "1",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085402",
+        "zymc": "通信工程（含宽带网络、移动通信等）",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "34216284646b8654424acecba51eb95a",
+        "sign2": "71b7d622ad5bbeba877919613ae79c93",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "a95a53c4c02610b8439c28ace7359b3f",
+            "zyyjfxdm": "1061421001085402012",
+            "dwdm": "10614",
+            "dwmc": "电子科技大学",
+            "schId": "368480",
+            "szssm": "51",
+            "szss": "四川",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "001",
+            "yxsmc": "信息与通信工程学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "不区分招生方向(非全)",
+            "zdjs": "不区分导师",
+            "nzsrs": 40,
+            "nzsrsstr": "研究方向：40(不含推免)",
+            "xxfs": "2",
+            "gbfs": "3",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "34216284646b8654424acecba51eb95a",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "201",
+                  "kskmmc": "英语（一）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "301",
+                  "kskmmc": "数学（一）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "858",
+                  "kskmmc": "信号与系统",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368554",
+        "dwdm": "10698",
+        "dwmc": "西安交通大学",
+        "szssm": "61",
+        "szss": "陕西",
+        "szqy": null,
+        "zhx": "1",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085402",
+        "zymc": "通信工程（含宽带网络、移动通信等）",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "4e8c07de525c9f37c48d579e3ce65b5c",
+        "sign2": "093f2be91c2ea12018d04991cb9a9a7d",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "10c9174a6c4b362f226521a207835206",
+            "zyyjfxdm": "1069821052085402022",
+            "dwdm": "10698",
+            "dwmc": "西安交通大学",
+            "schId": "368554",
+            "szssm": "61",
+            "szss": "陕西",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "052",
+            "yxsmc": "电子与信息学部-信息与通信工程学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "目录公布的各专业招生人数为基本计划，学校在复试阶段根据教育部下达计划、各学院（部、中心）推荐免试接收（为本年度实际接收情况）、报考生源及激励计划和各类专项计划等情况调整各院招生人数。",
+            "yjfxdm": "02",
+            "yjfxmc": "信息与通信工程",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：3(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "4e8c07de525c9f37c48d579e3ce65b5c",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "869",
+                  "kskmmc": "信号与系统分析及数字信号处理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368555",
+        "dwdm": "10699",
+        "dwmc": "西北工业大学",
+        "szssm": "61",
+        "szss": "陕西",
+        "szqy": null,
+        "zhx": "1",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085402",
+        "zymc": "通信工程（含宽带网络、移动通信等）",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "1a691ee42793c8648cdf835c10e04f0e",
+        "sign2": "3009ae47d8fbdd8c61ec4828ade13743",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "d807f8f9634a0234eba7124245a55d64",
+            "zyyjfxdm": "1069921020085402002",
+            "dwdm": "10699",
+            "dwmc": "西北工业大学",
+            "schId": "368555",
+            "szssm": "61",
+            "szss": "陕西",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "020",
+            "yxsmc": "民航学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "复试科目见我校研招网公布的招生目录",
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": "无",
+            "nzsrs": 2,
+            "nzsrsstr": "专业：2(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "1a691ee42793c8648cdf835c10e04f0e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "896",
+                  "kskmmc": "飞行器控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "c89c5893b2d02ada305cd6da05df0610",
+            "zyyjfxdm": "1069923020085402002",
+            "dwdm": "10699",
+            "dwmc": "西北工业大学",
+            "schId": "368555",
+            "szssm": "61",
+            "szss": "陕西",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "020",
+            "yxsmc": "民航学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "复试科目见我校研招网公布的招生目录",
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": "无",
+            "nzsrs": 3,
+            "nzsrsstr": "专业：3(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "1a691ee42793c8648cdf835c10e04f0e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "251",
+                  "kskmmc": "单考英语",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "733",
+                  "kskmmc": "单考数学",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "896",
+                  "kskmmc": "飞行器控制原理",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368557",
+        "dwdm": "10701",
+        "dwmc": "西安电子科技大学",
+        "szssm": "61",
+        "szss": "陕西",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085402",
+        "zymc": "通信工程（含宽带网络、移动通信等）",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "bd45f6bffb66aab029d335df61cdec38",
+        "sign2": "af0e42cfa4d66758f6ec0fa8e12ad21d",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "f730e2742a298edd587c475444c93cf3",
+            "zyyjfxdm": "1070121001085402022",
+            "dwdm": "10701",
+            "dwmc": "西安电子科技大学",
+            "schId": "368557",
+            "szssm": "61",
+            "szss": "陕西",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "001",
+            "yxsmc": "通信工程学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "电子信息",
+            "zdjs": "导师组",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：8(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "bd45f6bffb66aab029d335df61cdec38",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "201",
+                  "kskmmc": "英语（一）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "301",
+                  "kskmmc": "数学（一）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "811",
+                  "kskmmc": "信号与系统、电路",
+                  "cksm": "《电路基础》（第三版）王松林等，西电科大出版社；《信号与线性系统分析》（四版或五版）吴大正，高等教育出版社"
+                }
+              }
+            ]
+          },
+          {
+            "id": "b7cd1b459909dad3be4e8624614fdacc",
+            "zyyjfxdm": "1070121023085402032",
+            "dwdm": "10701",
+            "dwmc": "西安电子科技大学",
+            "schId": "368557",
+            "szssm": "61",
+            "szss": "陕西",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "023",
+            "yxsmc": "卓越工程师学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "03",
+            "yjfxmc": "电子信息-粤港澳大湾区基地专项",
+            "zdjs": "导师组",
+            "nzsrs": 1,
+            "nzsrsstr": "研究方向：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "3",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "bd45f6bffb66aab029d335df61cdec38",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "201",
+                  "kskmmc": "英语（一）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "301",
+                  "kskmmc": "数学（一）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "811",
+                  "kskmmc": "信号与系统、电路",
+                  "cksm": "《电路基础》（第三版）王松林等，西电科大出版社；《信号与线性系统分析》（四版或五版）吴大正，高等教育出版社"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ab4f85dd8ab3f30cc7c7ed85ae396fac",
+            "zyyjfxdm": "1070121023085402042",
+            "dwdm": "10701",
+            "dwmc": "西安电子科技大学",
+            "schId": "368557",
+            "szssm": "61",
+            "szss": "陕西",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "023",
+            "yxsmc": "卓越工程师学院",
+            "zydm": "085402",
+            "zymc": "通信工程（含宽带网络、移动通信等）",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "04",
+            "yjfxmc": "电子信息-长三角基地专项",
+            "zdjs": "导师组",
+            "nzsrs": 1,
+            "nzsrsstr": "研究方向：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "3",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "bd45f6bffb66aab029d335df61cdec38",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "201",
+                  "kskmmc": "英语（一）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "301",
+                  "kskmmc": "数学（一）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "811",
+                  "kskmmc": "信号与系统、电路",
+                  "cksm": "《电路基础》（第三版）王松林等，西电科大出版社；《信号与线性系统分析》（四版或五版）吴大正，高等教育出版社"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "a": null
+  },
+  "flag": true,
+  "invokeStatus": "SUCCESS",
+  "taskId": "01yek76toevyo4hn"
+}

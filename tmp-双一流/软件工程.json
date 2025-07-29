@@ -1,0 +1,2235 @@
+{
+  "zsmlcxModel": {
+    "zydm": "085405",
+    "zymc": "软件工程",
+    "schId": null,
+    "dwdm": null,
+    "dwmc": null,
+    "ssdm": null,
+    "ssmc": null,
+    "szqy": null,
+    "mldm": null,
+    "mlmc": null,
+    "yjxkdm": null,
+    "yjxkmc": null,
+    "xwlx": null,
+    "xwlxmc": null,
+    "xxfs": "2",
+    "xxfsmc": null,
+    "tydxs": null,
+    "jsggjh": null,
+    "dwlxs": [
+      "syl"
+    ],
+    "id": null,
+    "ids": null,
+    "sign": null,
+    "sign2": null,
+    "sign3": null,
+    "pageCount": null,
+    "start": "10",
+    "pages": null,
+    "f": null
+  },
+  "msg": {
+    "curPage": 2,
+    "nextPageAvailable": false,
+    "pageCount": 10,
+    "previousPageAvailable": true,
+    "size": 10,
+    "startOfLastPage": 10,
+    "startOfNextPage": 20,
+    "startOfPreviousPage": 0,
+    "totalCount": 17,
+    "totalPage": 2,
+    "list": [
+      {
+        "schId": "367881",
+        "dwdm": "10004",
+        "dwmc": "北京交通大学",
+        "szssm": "11",
+        "szss": "北京",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "04a33c12a1ff579af7399b02b0ffcbad",
+        "sign2": "a7a8851d48367efa96c00ba197d2f08e",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "3fea6f3d87c60f7c1c3b1d3ab9c4f26e",
+            "zyyjfxdm": "1000421900085405012",
+            "dwdm": "10004",
+            "dwmc": "北京交通大学",
+            "schId": "367881",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "900",
+            "yxsmc": "在职专业学位中心",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "计算机学院导师组",
+            "zdjs": null,
+            "nzsrs": 40,
+            "nzsrsstr": "研究方向：40(不含推免)",
+            "xxfs": "2",
+            "gbfs": "3",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "04a33c12a1ff579af7399b02b0ffcbad",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "408",
+                  "kskmmc": "计算机学科专业基础",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "9f3f77841d26d876fa5f9e4bc499b46a",
+            "zyyjfxdm": "1000421900085405022",
+            "dwdm": "10004",
+            "dwmc": "北京交通大学",
+            "schId": "367881",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "900",
+            "yxsmc": "在职专业学位中心",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "软件学院导师组",
+            "zdjs": null,
+            "nzsrs": 57,
+            "nzsrsstr": "研究方向：57(不含推免)",
+            "xxfs": "2",
+            "gbfs": "3",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "04a33c12a1ff579af7399b02b0ffcbad",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "861",
+                  "kskmmc": "软件工程专业基础",
+                  "cksm": "详见北京交通大学研究生院招生专题网（http://gs.bjtu.edu.cn/cms/zszt/)公布的北京交通大学2025年硕士研究生招生专业目录及自命题科目考试范围"
+                }
+              }
+            ]
+          },
+          {
+            "id": "81e718fa77f326b878aa9b98b924d03e",
+            "zyyjfxdm": "1000421900085405032",
+            "dwdm": "10004",
+            "dwmc": "北京交通大学",
+            "schId": "367881",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "900",
+            "yxsmc": "在职专业学位中心",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "03",
+            "yjfxmc": "网安学院导师组",
+            "zdjs": null,
+            "nzsrs": 20,
+            "nzsrsstr": "研究方向：20(不含推免)",
+            "xxfs": "2",
+            "gbfs": "3",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "04a33c12a1ff579af7399b02b0ffcbad",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "408",
+                  "kskmmc": "计算机学科专业基础",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cab945785e3dd7d0a1f4084e440515c0",
+            "zyyjfxdm": "1000423900085405022",
+            "dwdm": "10004",
+            "dwmc": "北京交通大学",
+            "schId": "367881",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "900",
+            "yxsmc": "在职专业学位中心",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "软件学院导师组",
+            "zdjs": null,
+            "nzsrs": 3,
+            "nzsrsstr": "研究方向：3(不含推免)",
+            "xxfs": "2",
+            "gbfs": "3",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "04a33c12a1ff579af7399b02b0ffcbad",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "详见北京交通大学研究生院招生专题网（http://gs.bjtu.edu.cn/cms/zszt/)公布的北京交通大学2025年硕士研究生招生专业目录及自命题科目考试范围"
+                },
+                "km2Vo": {
+                  "kskmdm": "289",
+                  "kskmmc": "英语（单独考试）",
+                  "cksm": "详见北京交通大学研究生院招生专题网（http://gs.bjtu.edu.cn/cms/zszt/)公布的北京交通大学2025年硕士研究生招生专业目录及自命题科目考试范围"
+                },
+                "km3Vo": {
+                  "kskmdm": "789",
+                  "kskmmc": "数学（单独考试）",
+                  "cksm": "详见北京交通大学研究生院招生专题网（http://gs.bjtu.edu.cn/cms/zszt/)公布的北京交通大学2025年硕士研究生招生专业目录及自命题科目考试范围"
+                },
+                "km4Vo": {
+                  "kskmdm": "861",
+                  "kskmmc": "软件工程专业基础",
+                  "cksm": "详见北京交通大学研究生院招生专题网（http://gs.bjtu.edu.cn/cms/zszt/)公布的北京交通大学2025年硕士研究生招生专业目录及自命题科目考试范围"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "367883",
+        "dwdm": "10006",
+        "dwmc": "北京航空航天大学",
+        "szssm": "11",
+        "szss": "北京",
+        "szqy": null,
+        "zhx": "1",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "389f0015871df731c8d943a55ddbf75e",
+        "sign2": "345135dc45120befdd242af10adb41f4",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "c6c69797f78839d0aae339f6a1fb2940",
+            "zyyjfxdm": "1000621021085405002",
+            "dwdm": "10006",
+            "dwmc": "北京航空航天大学",
+            "schId": "367883",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "021",
+            "yxsmc": "软件学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "学制3年，非全日制学习方式，学费15000元/生.学年。仅招收定向就业类别考生。拟招生人数会根据国家下达计划和推免拟录取情况有所调整。",
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": "请登录北航各学院网站http://www.buaa.edu.cn/jgsz/yxsz.htm查询或直接咨询相关单位",
+            "nzsrs": 50,
+            "nzsrsstr": "专业：50(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "389f0015871df731c8d943a55ddbf75e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "请登录教育部教育考试院网站http://www.neea.edu.cn/查看相关考试大纲及要求"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "请登录教育部教育考试院网站http://www.neea.edu.cn/查看相关考试大纲及要求"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "请登录教育部教育考试院网站http://www.neea.edu.cn/查看相关考试大纲及要求"
+                },
+                "km4Vo": {
+                  "kskmdm": "809",
+                  "kskmmc": "软件工程基础综合",
+                  "cksm": "请登录北航研招办网站http://yzb.buaa.edu.cn/查询考试大纲或咨询相关单位"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "367884",
+        "dwdm": "10007",
+        "dwmc": "北京理工大学",
+        "szssm": "11",
+        "szss": "北京",
+        "szqy": null,
+        "zhx": "1",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "5b217dcdf0e23ba47d81afedfb9d3cc2",
+        "sign2": "00c184270e9394b5a406d63f94966d29",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "27ad18d555293ee47c53be7f5d2d37c9",
+            "zyyjfxdm": "1000723207085405002",
+            "dwdm": "10007",
+            "dwmc": "北京理工大学",
+            "schId": "367884",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "207",
+            "yxsmc": "计算机学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": "不区分导师",
+            "nzsrs": 12,
+            "nzsrsstr": "专业：12(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "5b217dcdf0e23ba47d81afedfb9d3cc2",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "241",
+                  "kskmmc": "自命题英语",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "611",
+                  "kskmmc": "数学",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "885",
+                  "kskmmc": "软件工程专业基础综合",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "367896",
+        "dwdm": "10008",
+        "dwmc": "北京科技大学",
+        "szssm": "11",
+        "szss": "北京",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "748729f35c1a8ad2e35c8971394e0c94",
+        "sign2": "4cf6249a8fbc6680502440d3c8e6b38d",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "89163a2f185b6a9e559d101f3a7c12e0",
+            "zyyjfxdm": "1000821070085405002",
+            "dwdm": "10008",
+            "dwmc": "北京科技大学",
+            "schId": "367896",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "070",
+            "yxsmc": "数理学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "本专业不招收同等学力考生。",
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": "不区分导师",
+            "nzsrs": 45,
+            "nzsrsstr": "专业：45(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "748729f35c1a8ad2e35c8971394e0c94",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "879",
+                  "kskmmc": "数据结构",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368033",
+        "dwdm": "10141",
+        "dwmc": "大连理工大学",
+        "szssm": "21",
+        "szss": "辽宁",
+        "szqy": null,
+        "zhx": "1",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "08548852aef21d665bcd1030ec3424cc",
+        "sign2": "ad9761b886596aa7ac79f1112296d160",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "e16be34ae004ed7fdd7e2f0fed8d4aef",
+            "zyyjfxdm": "1014121170085405022",
+            "dwdm": "10141",
+            "dwmc": "大连理工大学",
+            "schId": "368033",
+            "szssm": "21",
+            "szss": "辽宁",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "170",
+            "yxsmc": "（开发区校区）软件学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "各专业统考计划将根据国家最终下达招生计划数、实际接收推免生数、统考考生报考数等调整。各专业划线及排序录取方式请至https://yjszs.dlut.edu.cn/zsbm/zsml/sszsml/index/2025查询。",
+            "yjfxdm": "02",
+            "yjfxmc": "智能工程",
+            "zdjs": null,
+            "nzsrs": 50,
+            "nzsrsstr": "研究方向：50(不含推免)",
+            "xxfs": "2",
+            "gbfs": "3",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "08548852aef21d665bcd1030ec3424cc",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "887",
+                  "kskmmc": "软件工程",
+                  "cksm": "《软件工程导论》第六版, 张海藩编著. 清华大学出版社.##《软件工程》，朴勇 周勇编著. 电子工业出版社."
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368137",
+        "dwdm": "10269",
+        "dwmc": "华东师范大学",
+        "szssm": "31",
+        "szss": "上海",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "af272cbfdfbfdd5c06ebbb18a111e68d",
+        "sign2": "d5ee2a286b02798386fc9dc7cd5a1502",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "7fd603931940d127c73e439ecc89d4f6",
+            "zyyjfxdm": "1026921160085405002",
+            "dwdm": "10269",
+            "dwmc": "华东师范大学",
+            "schId": "368137",
+            "szssm": "31",
+            "szss": "上海",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "160",
+            "yxsmc": "软件工程学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "1、全日制复试录取按方向分别排序；\n2、02信息技术创新：华东师范大学--以色列海法大学校际合作项目，可致电021-62232826详询；非全日制可致电021-62235267详询；\n3、部分研究生科研实践环节拟于滴水湖国际软件学院开展。",
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": "不区分导师",
+            "nzsrs": 98,
+            "nzsrsstr": "研究方向：98(不含推免)",
+            "xxfs": "2",
+            "gbfs": "3",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "af272cbfdfbfdd5c06ebbb18a111e68d",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "408",
+                  "kskmmc": "计算机学科专业基础",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368181",
+        "dwdm": "10287",
+        "dwmc": "南京航空航天大学",
+        "szssm": "32",
+        "szss": "江苏",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "3f68d5a9756a68a7eee6fb99aae86d1a",
+        "sign2": "914d587968aa33869f57a08e9bacfff9",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "c9105510581f1f21f5f09967a312da91",
+            "zyyjfxdm": "1028721016085405FF2",
+            "dwdm": "10287",
+            "dwmc": "南京航空航天大学",
+            "schId": "368181",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "016",
+            "yxsmc": "计算机科学与技术学院/软件学院、人工智能学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "FF",
+            "yjfxmc": "非全（研究方向不区分）",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：2(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "3f68d5a9756a68a7eee6fb99aae86d1a",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "201",
+                  "kskmmc": "英语（一）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "408",
+                  "kskmmc": "计算机学科专业基础",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6362d23731dd26faeb0c3cdfc2685d9e",
+            "zyyjfxdm": "1028723016085405FF2",
+            "dwdm": "10287",
+            "dwmc": "南京航空航天大学",
+            "schId": "368181",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "016",
+            "yxsmc": "计算机科学与技术学院/软件学院、人工智能学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "FF",
+            "yjfxmc": "非全（研究方向不区分）",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "3f68d5a9756a68a7eee6fb99aae86d1a",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "241",
+                  "kskmmc": "英语（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "614",
+                  "kskmmc": "高等数学（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "829",
+                  "kskmmc": "计算机专业基础",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368184",
+        "dwdm": "10290",
+        "dwmc": "中国矿业大学",
+        "szssm": "32",
+        "szss": "江苏",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "4b8759ce4e4512f1d955e6f3b9f97ebb",
+        "sign2": "58ab5532efa6cbaffe444807bfda7f23",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "b8e361cc2b7f6438277a38f0b43a7f71",
+            "zyyjfxdm": "1029021017085405002",
+            "dwdm": "10290",
+            "dwmc": "中国矿业大学",
+            "schId": "368184",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "017",
+            "yxsmc": "计算机科学与技术学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": null,
+            "nzsrs": 3,
+            "nzsrsstr": "专业：3(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "4b8759ce4e4512f1d955e6f3b9f97ebb",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "408",
+                  "kskmmc": "计算机学科专业基础",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368189",
+        "dwdm": "10295",
+        "dwmc": "江南大学",
+        "szssm": "32",
+        "szss": "江苏",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "96f712a8df3ed3b60e63db7580f15e0a",
+        "sign2": "4e31046796293e05c74d8f4a47902a76",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "e8826c3a9623e02c44ab1c0ef4e383d8",
+            "zyyjfxdm": "1029521031085405012",
+            "dwdm": "10295",
+            "dwmc": "江南大学",
+            "schId": "368189",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "031",
+            "yxsmc": "人工智能与计算机学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "软件理论与方法",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：5(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "96f712a8df3ed3b60e63db7580f15e0a",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "851",
+                  "kskmmc": "算法与程序设计",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d43d92e7903f7c2f2e38f6b32bc7aedb",
+            "zyyjfxdm": "1029521031085405022",
+            "dwdm": "10295",
+            "dwmc": "江南大学",
+            "schId": "368189",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "031",
+            "yxsmc": "人工智能与计算机学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "智能软件技术",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：5(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "96f712a8df3ed3b60e63db7580f15e0a",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "851",
+                  "kskmmc": "算法与程序设计",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "7f71e1ebfe71eaa52762f7d119b32061",
+            "zyyjfxdm": "1029521031085405032",
+            "dwdm": "10295",
+            "dwmc": "江南大学",
+            "schId": "368189",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "031",
+            "yxsmc": "人工智能与计算机学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "03",
+            "yjfxmc": "网络软件与安全",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：5(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "96f712a8df3ed3b60e63db7580f15e0a",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "851",
+                  "kskmmc": "算法与程序设计",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a5e43be8572478d1c8a746e0c9f75825",
+            "zyyjfxdm": "1029521031085405042",
+            "dwdm": "10295",
+            "dwmc": "江南大学",
+            "schId": "368189",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "031",
+            "yxsmc": "人工智能与计算机学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "04",
+            "yjfxmc": "现代软件工程技术",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：5(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "96f712a8df3ed3b60e63db7580f15e0a",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "851",
+                  "kskmmc": "算法与程序设计",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368238",
+        "dwdm": "10359",
+        "dwmc": "合肥工业大学",
+        "szssm": "34",
+        "szss": "安徽",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "c38846756020e7b8f8ce125598b882b8",
+        "sign2": "93e403806be52c9bb02a9213c3ac4633",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "f5411c96c0a07c3b57bf82d35f330b85",
+            "zyyjfxdm": "1035921005085405012",
+            "dwdm": "10359",
+            "dwmc": "合肥工业大学",
+            "schId": "368238",
+            "szssm": "34",
+            "szss": "安徽",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "005",
+            "yxsmc": "计算机与信息学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "根据教育部下达的计划数，考试招生计划数可能做相应调整。",
+            "yjfxdm": "01",
+            "yjfxmc": "不区分方向",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：15(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "c38846756020e7b8f8ce125598b882b8",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "408",
+                  "kskmmc": "计算机学科专业基础",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368365",
+        "dwdm": "10504",
+        "dwmc": "华中农业大学",
+        "szssm": "42",
+        "szss": "湖北",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "5c38665f3ede1a5b130c6b59f681d701",
+        "sign2": "11f56aa7a6366db18e60166a4bee354f",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "7dbcd5b62e3220a61d84a67854620825",
+            "zyyjfxdm": "1050421317085405012",
+            "dwdm": "10504",
+            "dwmc": "华中农业大学",
+            "schId": "368365",
+            "szssm": "42",
+            "szss": "湖北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "317",
+            "yxsmc": "信息学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "软件工程",
+            "zdjs": "导师简介请查询各学院网站信息。",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "5c38665f3ede1a5b130c6b59f681d701",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "408",
+                  "kskmmc": "计算机学科专业基础",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "0227b8b32368fbf9d36365894b4fbe0a",
+            "zyyjfxdm": "1050423317085405012",
+            "dwdm": "10504",
+            "dwmc": "华中农业大学",
+            "schId": "368365",
+            "szssm": "42",
+            "szss": "湖北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "317",
+            "yxsmc": "信息学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "软件工程",
+            "zdjs": "导师简介请查询各学院网站信息。",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "5c38665f3ede1a5b130c6b59f681d701",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "408",
+                  "kskmmc": "计算机学科专业基础",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368439",
+        "dwdm": "10589",
+        "dwmc": "海南大学",
+        "szssm": "46",
+        "szss": "海南",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "7a168c366aaaeb2ad39456df9197687e",
+        "sign2": "58cc62d91727c7ed16501ae2a63fc491",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "2c2ead56a59154840cb37b9f62a8fe01",
+            "zyyjfxdm": "1058921812085405002",
+            "dwdm": "10589",
+            "dwmc": "海南大学",
+            "schId": "368439",
+            "szssm": "46",
+            "szss": "海南",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "812",
+            "yxsmc": "计算机科学与技术学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": null,
+            "nzsrs": 10,
+            "nzsrsstr": "专业：10(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "7a168c366aaaeb2ad39456df9197687e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "请查看学校、学院相关网页"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "请查看学校、学院相关网页"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "请查看学校、学院相关网页"
+                },
+                "km4Vo": {
+                  "kskmdm": "408",
+                  "kskmmc": "计算机学科专业基础",
+                  "cksm": "请查看学校、学院相关网页"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368479",
+        "dwdm": "10610",
+        "dwmc": "四川大学",
+        "szssm": "51",
+        "szss": "四川",
+        "szqy": null,
+        "zhx": "1",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "9e2f2f41c68b62d4bb97f2f45a1d03be",
+        "sign2": "213b4d559c9526e5fe853dd4c28533c7",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "da4ca7283f5c8c6702ec78be3cceff8b",
+            "zyyjfxdm": "1061021304085405012",
+            "dwdm": "10610",
+            "dwmc": "四川大学",
+            "schId": "368479",
+            "szssm": "51",
+            "szss": "四川",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "304",
+            "yxsmc": "计算机学院（软件学院、智能科学与技术学院）",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "可招收少干、退役大学士兵计划。复试科目：C语言（含上机测试）、综合测试。只招收具有本科学历的考生。",
+            "yjfxdm": "01",
+            "yjfxmc": "本领域不设研究方向",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：50(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "9e2f2f41c68b62d4bb97f2f45a1d03be",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "408",
+                  "kskmmc": "计算机学科专业基础",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368480",
+        "dwdm": "10614",
+        "dwmc": "电子科技大学",
+        "szssm": "51",
+        "szss": "四川",
+        "szqy": null,
+        "zhx": "1",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "34216284646b8654424acecba51eb95a",
+        "sign2": "a7c31fc9a91deecd589a52cebbc8ec4f",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "f5817ca653b28dadd1cfcfe108588fcb",
+            "zyyjfxdm": "1061421011085405012",
+            "dwdm": "10614",
+            "dwmc": "电子科技大学",
+            "schId": "368480",
+            "szssm": "51",
+            "szss": "四川",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "011",
+            "yxsmc": "数学科学学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "不区分招生方向(非全)",
+            "zdjs": "不区分导师",
+            "nzsrs": 5,
+            "nzsrsstr": "研究方向：5(不含推免)",
+            "xxfs": "2",
+            "gbfs": "3",
+            "tydxs": "1",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "34216284646b8654424acecba51eb95a",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "201",
+                  "kskmmc": "英语（一）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "301",
+                  "kskmmc": "数学（一）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "860",
+                  "kskmmc": "软件工程学科基础综合",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368555",
+        "dwdm": "10699",
+        "dwmc": "西北工业大学",
+        "szssm": "61",
+        "szss": "陕西",
+        "szqy": null,
+        "zhx": "1",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "1a691ee42793c8648cdf835c10e04f0e",
+        "sign2": "91d70f9a2997d3215a45ca24a9750e19",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "666ed2e1e13f380d0c7ef8ceaf392c21",
+            "zyyjfxdm": "1069921014085405002",
+            "dwdm": "10699",
+            "dwmc": "西北工业大学",
+            "schId": "368555",
+            "szssm": "61",
+            "szss": "陕西",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "014",
+            "yxsmc": "软件学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "复试科目见我校研招网公布的招生目录",
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": "无",
+            "nzsrs": 60,
+            "nzsrsstr": "专业：60(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "1a691ee42793c8648cdf835c10e04f0e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "879",
+                  "kskmmc": "专业综合",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "522881d960842605fc2f63cf1aabdf0d",
+            "zyyjfxdm": "1069923014085405002",
+            "dwdm": "10699",
+            "dwmc": "西北工业大学",
+            "schId": "368555",
+            "szssm": "61",
+            "szss": "陕西",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "014",
+            "yxsmc": "软件学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "复试科目见我校研招网公布的招生目录",
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": "无",
+            "nzsrs": 3,
+            "nzsrsstr": "专业：3(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "1a691ee42793c8648cdf835c10e04f0e",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "251",
+                  "kskmmc": "单考英语",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "733",
+                  "kskmmc": "单考数学",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "879",
+                  "kskmmc": "专业综合",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368557",
+        "dwdm": "10701",
+        "dwmc": "西安电子科技大学",
+        "szssm": "61",
+        "szss": "陕西",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "bd45f6bffb66aab029d335df61cdec38",
+        "sign2": "431e6a6944f8d7cae1314071fc4c13f6",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "edd6f6137002dc2d41e56b31425f91a1",
+            "zyyjfxdm": "1070121003085405022",
+            "dwdm": "10701",
+            "dwmc": "西安电子科技大学",
+            "schId": "368557",
+            "szssm": "61",
+            "szss": "陕西",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "003",
+            "yxsmc": "计算机科学与技术学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "电子信息",
+            "zdjs": "导师组",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "bd45f6bffb66aab029d335df61cdec38",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "201",
+                  "kskmmc": "英语（一）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "301",
+                  "kskmmc": "数学（一）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "834",
+                  "kskmmc": "数据结构、计算机组成原理",
+                  "cksm": "《计算机组成与系统结构（第二版）》裘雪红、盛立杰等，西电科大出版社2021；《计算机组成与设计》李伯成、顾新，清华大学出版社2011；《数据结构》（C语言版）严蔚敏、吴伟民，清华大学出版社2021"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "367925",
+        "dwdm": "11415",
+        "dwmc": "中国地质大学(北京)",
+        "szssm": "11",
+        "szss": "北京",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085405",
+        "zymc": "软件工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "e43038e0926729212c62df150aa806cf",
+        "sign2": "9c5b2134a6956584b8668c91fa0fa226",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "833e40a66b278a3aa16f546ca57ccc94",
+            "zyyjfxdm": "1141521304085405052",
+            "dwdm": "11415",
+            "dwmc": "中国地质大学(北京)",
+            "schId": "367925",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "304",
+            "yxsmc": "信息工程学院",
+            "zydm": "085405",
+            "zymc": "软件工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "05",
+            "yjfxmc": "软件工程",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：15(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "e43038e0926729212c62df150aa806cf",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "859",
+                  "kskmmc": "软件工程",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "a": null
+  },
+  "flag": true,
+  "invokeStatus": "SUCCESS",
+  "taskId": "omq4za17ae7np3g2"
+}

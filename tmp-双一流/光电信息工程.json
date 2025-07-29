@@ -1,0 +1,912 @@
+{
+  "zsmlcxModel": {
+    "zydm": "085408",
+    "zymc": "光电信息工程",
+    "schId": null,
+    "dwdm": null,
+    "dwmc": null,
+    "ssdm": null,
+    "ssmc": null,
+    "szqy": null,
+    "mldm": null,
+    "mlmc": null,
+    "yjxkdm": null,
+    "yjxkmc": null,
+    "xwlx": null,
+    "xwlxmc": null,
+    "xxfs": "2",
+    "xxfsmc": null,
+    "tydxs": null,
+    "jsggjh": null,
+    "dwlxs": [
+      "syl"
+    ],
+    "id": null,
+    "ids": null,
+    "sign": null,
+    "sign2": null,
+    "sign3": null,
+    "pageCount": null,
+    "start": "0",
+    "pages": null,
+    "f": null
+  },
+  "msg": {
+    "curPage": 1,
+    "nextPageAvailable": false,
+    "pageCount": 10,
+    "previousPageAvailable": false,
+    "size": 10,
+    "startOfLastPage": 0,
+    "startOfNextPage": 10,
+    "startOfPreviousPage": 0,
+    "totalCount": 5,
+    "totalPage": 1,
+    "list": [
+      {
+        "schId": "367884",
+        "dwdm": "10007",
+        "dwmc": "北京理工大学",
+        "szssm": "11",
+        "szss": "北京",
+        "szqy": null,
+        "zhx": "1",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085408",
+        "zymc": "光电信息工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "5b217dcdf0e23ba47d81afedfb9d3cc2",
+        "sign2": "0ed138efb68abd450e51da8db52053c6",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "19a2c0ad0bfb1ea2dde25c3c5dec59ac",
+            "zyyjfxdm": "1000723204085408002",
+            "dwdm": "10007",
+            "dwmc": "北京理工大学",
+            "schId": "367884",
+            "szssm": "11",
+            "szss": "北京",
+            "szqy": null,
+            "zhx": "1",
+            "bs": "1",
+            "syl": "1",
+            "b985": "1",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "204",
+            "yxsmc": "光电学院",
+            "zydm": "085408",
+            "zymc": "光电信息工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "00",
+            "yjfxmc": "不区分研究方向",
+            "zdjs": "不区分导师",
+            "nzsrs": 2,
+            "nzsrsstr": "专业：2(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "5b217dcdf0e23ba47d81afedfb9d3cc2",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "241",
+                  "kskmmc": "自命题英语",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "611",
+                  "kskmmc": "数学",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "819",
+                  "kskmmc": "光学与电子技术基础",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "367976",
+        "dwdm": "10079",
+        "dwmc": "华北电力大学(保定)",
+        "szssm": "13",
+        "szss": "河北",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085408",
+        "zymc": "光电信息工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+        "sign2": "c4dc39a85e716dd40f9c820b8aff2a38",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "63e0208548586928f58197a38cb99c06",
+            "zyyjfxdm": "1007921004085408012",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "004",
+            "yxsmc": "数理系",
+            "zydm": "085408",
+            "zymc": "光电信息工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "01",
+            "yjfxmc": "微腔激光器的设计与测试",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：6(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "807",
+                  "kskmmc": "光学",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f7b0285d924498e391b52331cb71f733",
+            "zyyjfxdm": "1007921004085408022",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "004",
+            "yxsmc": "数理系",
+            "zydm": "085408",
+            "zymc": "光电信息工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "光电检测技术及应用",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：6(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "807",
+                  "kskmmc": "光学",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fdadb779b86488e991202018968cf155",
+            "zyyjfxdm": "1007921004085408032",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "004",
+            "yxsmc": "数理系",
+            "zydm": "085408",
+            "zymc": "光电信息工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "03",
+            "yjfxmc": "新型光电器件设计及制备",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：6(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "807",
+                  "kskmmc": "光学",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          },
+          {
+            "id": "649f21a906803268e5638316af7519b8",
+            "zyyjfxdm": "1007921004085408042",
+            "dwdm": "10079",
+            "dwmc": "华北电力大学(保定)",
+            "schId": "367976",
+            "szssm": "13",
+            "szss": "河北",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "004",
+            "yxsmc": "数理系",
+            "zydm": "085408",
+            "zymc": "光电信息工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "04",
+            "yjfxmc": "光声检测技术及应用",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：6(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "8a2cbdec5093cbdfe3f097423f740f26",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "807",
+                  "kskmmc": "光学",
+                  "cksm": "请登陆https://gs.ncepu.edu.cn/，点击招生信息查询。"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368182",
+        "dwdm": "10288",
+        "dwmc": "南京理工大学",
+        "szssm": "32",
+        "szss": "江苏",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085408",
+        "zymc": "光电信息工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "df2e4b56e7b5b508b00b2f1e8cd20090",
+        "sign2": "fb2edfe4ac9a606a40636a43fe077999",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "ece0b2a62ef6afa99bad570c88f93778",
+            "zyyjfxdm": "1028821104085408F12",
+            "dwdm": "10288",
+            "dwmc": "南京理工大学",
+            "schId": "368182",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "104",
+            "yxsmc": "电子工程与光电技术学院",
+            "zydm": "085408",
+            "zymc": "光电信息工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "各学院各专业用于公开招考的人数将根据国家最终下达的招生计划数、实际录取的推免生数、考生报考情况等进行适当调整。",
+            "yjfxdm": "F1",
+            "yjfxmc": "不区分研究方向(非全)",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：16(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "df2e4b56e7b5b508b00b2f1e8cd20090",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "819",
+                  "kskmmc": "光学工程",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          },
+          {
+            "id": "9e11443df68a6972efdf2251f2d0db4e",
+            "zyyjfxdm": "1028823104085408F12",
+            "dwdm": "10288",
+            "dwmc": "南京理工大学",
+            "schId": "368182",
+            "szssm": "32",
+            "szss": "江苏",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "23",
+            "ksfsmc": "单考",
+            "yxsdm": "104",
+            "yxsmc": "电子工程与光电技术学院",
+            "zydm": "085408",
+            "zymc": "光电信息工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "各学院各专业用于公开招考的人数将根据国家最终下达的招生计划数、实际录取的推免生数、考生报考情况等进行适当调整。",
+            "yjfxdm": "F1",
+            "yjfxmc": "不区分研究方向(非全)",
+            "zdjs": null,
+            "nzsrs": 0,
+            "nzsrsstr": "专业：9(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "df2e4b56e7b5b508b00b2f1e8cd20090",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "111",
+                  "kskmmc": "思想政治理论（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "241",
+                  "kskmmc": "英语（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "611",
+                  "kskmmc": "数学（单独考试）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "898",
+                  "kskmmc": "光学工程（单考）",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368238",
+        "dwdm": "10359",
+        "dwmc": "合肥工业大学",
+        "szssm": "34",
+        "szss": "安徽",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085408",
+        "zymc": "光电信息工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "c38846756020e7b8f8ce125598b882b8",
+        "sign2": "f7912e28b9f04b9c31c6bc2e4b98859d",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "621e7da8e3c48c717d0f75f59e597822",
+            "zyyjfxdm": "1035921001085408012",
+            "dwdm": "10359",
+            "dwmc": "合肥工业大学",
+            "schId": "368238",
+            "szssm": "34",
+            "szss": "安徽",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "0",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "001",
+            "yxsmc": "仪器科学与光电工程学院",
+            "zydm": "085408",
+            "zymc": "光电信息工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": "根据教育部下达的计划数，考试招生计划数可能做相应调整。",
+            "yjfxdm": "01",
+            "yjfxmc": "不区分方向",
+            "zdjs": "不区分导师",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：15(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "0",
+            "jsggjh": "0",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "c38846756020e7b8f8ce125598b882b8",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "204",
+                  "kskmmc": "英语（二）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "302",
+                  "kskmmc": "数学（二）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "854",
+                  "kskmmc": "仪器技术综合",
+                  "cksm": "见招生简章"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schId": "368557",
+        "dwdm": "10701",
+        "dwmc": "西安电子科技大学",
+        "szssm": "61",
+        "szss": "陕西",
+        "szqy": null,
+        "zhx": "0",
+        "bs": "1",
+        "syl": "1",
+        "zydm": "085408",
+        "zymc": "光电信息工程",
+        "mldm": "08",
+        "mlmc": "工学",
+        "yjxkdm": "0854",
+        "yjxkmc": "电子信息",
+        "xwlx": "zyxw",
+        "xwlxmc": "专业学位",
+        "sign": "bd45f6bffb66aab029d335df61cdec38",
+        "sign2": "a3e1ca88e845bcb688046b7ab5a6ea6c",
+        "mxxfs": "2",
+        "mdwlxs": [
+          "syl"
+        ],
+        "mtydxs": null,
+        "mjsggjh": null,
+        "detail": [
+          {
+            "id": "965bd6b161a3a99b31b5389e05ba5a01",
+            "zyyjfxdm": "1070121019085408022",
+            "dwdm": "10701",
+            "dwmc": "西安电子科技大学",
+            "schId": "368557",
+            "szssm": "61",
+            "szss": "陕西",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "019",
+            "yxsmc": "光电工程学院",
+            "zydm": "085408",
+            "zymc": "光电信息工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "02",
+            "yjfxmc": "电子信息",
+            "zdjs": "导师组",
+            "nzsrs": 0,
+            "nzsrsstr": "专业：2(不含推免)",
+            "xxfs": "2",
+            "gbfs": "2",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "bd45f6bffb66aab029d335df61cdec38",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "201",
+                  "kskmmc": "英语（一）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "301",
+                  "kskmmc": "数学（一）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "851",
+                  "kskmmc": "物理光学与应用光学",
+                  "cksm": "《物理光学与应用光学》石顺祥等，西电科大出版社2008"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1528a358571fdddb723ce171a7ae96d6",
+            "zyyjfxdm": "1070121023085408032",
+            "dwdm": "10701",
+            "dwmc": "西安电子科技大学",
+            "schId": "368557",
+            "szssm": "61",
+            "szss": "陕西",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "023",
+            "yxsmc": "卓越工程师学院",
+            "zydm": "085408",
+            "zymc": "光电信息工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "03",
+            "yjfxmc": "电子信息-粤港澳大湾区基地专项",
+            "zdjs": "导师组",
+            "nzsrs": 1,
+            "nzsrsstr": "研究方向：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "3",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "bd45f6bffb66aab029d335df61cdec38",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "201",
+                  "kskmmc": "英语（一）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "301",
+                  "kskmmc": "数学（一）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "851",
+                  "kskmmc": "物理光学与应用光学",
+                  "cksm": "《物理光学与应用光学》石顺祥等，西电科大出版社2008"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2e43ec0497009a2ef8bb11a2f9cc3c47",
+            "zyyjfxdm": "1070121023085408042",
+            "dwdm": "10701",
+            "dwmc": "西安电子科技大学",
+            "schId": "368557",
+            "szssm": "61",
+            "szss": "陕西",
+            "szqy": null,
+            "zhx": "0",
+            "bs": "1",
+            "syl": "1",
+            "b985": "0",
+            "b211": "1",
+            "yjsy": "1",
+            "ksfsdm": "21",
+            "ksfsmc": "统考",
+            "yxsdm": "023",
+            "yxsmc": "卓越工程师学院",
+            "zydm": "085408",
+            "zymc": "光电信息工程",
+            "mldm": "08",
+            "mlmc": "工学",
+            "yjxkdm": "0854",
+            "yjxkmc": "电子信息",
+            "xwlx": "zyxw",
+            "zybz": null,
+            "yjfxdm": "04",
+            "yjfxmc": "电子信息-长三角基地专项",
+            "zdjs": "导师组",
+            "nzsrs": 1,
+            "nzsrsstr": "研究方向：1(不含推免)",
+            "xxfs": "2",
+            "gbfs": "3",
+            "tydxs": "1",
+            "jsggjh": "1",
+            "ssjstmrs": 0,
+            "ssncszjh": 0,
+            "cxzrs": 0,
+            "sign": "bd45f6bffb66aab029d335df61cdec38",
+            "kskmz": [
+              {
+                "km1Vo": {
+                  "kskmdm": "101",
+                  "kskmmc": "思想政治理论",
+                  "cksm": "见招生简章"
+                },
+                "km2Vo": {
+                  "kskmdm": "201",
+                  "kskmmc": "英语（一）",
+                  "cksm": "见招生简章"
+                },
+                "km3Vo": {
+                  "kskmdm": "301",
+                  "kskmmc": "数学（一）",
+                  "cksm": "见招生简章"
+                },
+                "km4Vo": {
+                  "kskmdm": "851",
+                  "kskmmc": "物理光学与应用光学",
+                  "cksm": "《物理光学与应用光学》石顺祥等，西电科大出版社2008"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "a": null
+  },
+  "flag": true,
+  "invokeStatus": "SUCCESS",
+  "taskId": "1c65e27nl4xaskn8"
+}
